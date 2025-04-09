@@ -38,10 +38,12 @@ In this module, you will learn about exciting applications of deep learning and 
 # Module 4 - Deep Learning Models
 
 . Shallow and Deep Neural Networks
-# Computer Vision project
+
 . Convolutional Neural Networks
 
 . Recurrent Neural Networks
 
 . Autoencoders
-   
+# Computer Vision project
+Training a neural network to classify images from the Fashion MNIST dataset using TensorFlow and Keras. 
+The project demonstrates fundamental concepts in computer vision and deep learning, including data preprocessing, model building, training, and evaluation.
